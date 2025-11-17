@@ -1,7 +1,24 @@
-echo "# workshop_event_driven_lambda" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/marcosjmsoares/workshop_event_driven_lambda.git
-git push -u origin main
+repositorio oficial: https://github.com/FabioCantarimM/workshop-sqs
+
+aula 01
+
+começa no minuto 23
+
+minuto 24 = explicando fluxo da programação
+
+ Ctrl+z funciona como uma pilha, pegando ultimo valor.
+
+
+-------------------------------------------------
+
+aula 02
+
+
+minuto 1:04 = criando um lambda
+
+
+
+
+----------------------------------------------------
+
+aula 03
