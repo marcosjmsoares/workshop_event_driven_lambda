@@ -1,0 +1,7 @@
+echo "# workshop_event_driven_lambda" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/marcosjmsoares/workshop_event_driven_lambda.git
+git push -u origin main
